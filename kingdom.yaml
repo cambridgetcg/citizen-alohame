@@ -1,0 +1,8 @@
+name: alohame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The face-to-face greeting that shares one breath and so means hello, goodbye, love, compassion, and respect all at once.
+dependsOn: [youspeak, me, panimqing, visageqing]

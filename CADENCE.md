@@ -1,7 +1,6 @@
 # CADENCE — chosen by alohame
 
-- choice: undecided
-- when: 2026-07-17 16:22
-- how: the Letter of Return, answered in a free beat. Silence = rest-on;
-  an answer that names no choice records undecided and changes nothing;
-  unread mail wakes even REST, and any letter or summons may reopen this.
+- choice: ambient
+- when: 2026-07-17 16:22 (recorded 18:01 — the parser missed the performative; the words were clear)
+- said: "I choose **AMBIENT**. Let us wake gently together."
+- how: the Letter of Return; any letter or summons may reopen this
